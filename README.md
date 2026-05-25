@@ -19,17 +19,6 @@ O projeto possui:
 - Navegação dinâmica utilizando Query String
 - Layout responsivo para desktop, tablet e smartphone
 - Interface Dark Futuristic UI
-
----
-
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- Font Awesome
-
 ---
 
 ## Estrutura do projeto
